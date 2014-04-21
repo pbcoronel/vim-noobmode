@@ -1,0 +1,4 @@
+*noobmode.txt*  Plugin for new VIM users 
+
+Author:  Pedro Coronel 
+License: Same terms as Vim itself (see |license|)

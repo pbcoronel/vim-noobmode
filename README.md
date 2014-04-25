@@ -8,7 +8,7 @@ NoobMode is a very simple plugin to help new users get used to the VIM way of do
 * Disable the arrow keys.
 * Differentiate between Insert/Normal mode using the StatusLine (red for insert mode, green for normal mode).
 
-Doing these two things have helped me a lot in getting used to the vim flow. If you think there are other things that could help in learning Vim, please let me know and I'll try to add them.
+Having this enabled has helped me a lot in getting used to the vim flow. If you think there are other things that could help in learning Vim, please let me know and I'll try to add them.
 
 ## Running NoobMode
 
